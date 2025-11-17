@@ -1,0 +1,22 @@
+{
+  "params": {
+    "max_depth": 4,
+    "min_child_weight": 2,
+    "gamma": 0.3312207106640035,
+    "reg_lambda": 13.026102601575124,
+    "reg_alpha": 0.012211764741229649,
+    "subsample": 0.9922405872712441,
+    "colsample_bytree": 0.7275791676121519,
+    "learning_rate": 0.03402810811212028,
+    "max_bin": 256,
+    "objective": "reg:squarederror",
+    "eval_metric": "mae",
+    "device": "cuda",
+    "tree_method": "hist",
+    "random_state": 42,
+    "n_estimators": 311
+  },
+  "best_val_mae": 4606.8589542154705,
+  "best_n_estimators": 311,
+  "saved_at": "2025-09-28 23:54:25"
+}
